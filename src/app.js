@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import AppRouter from './routers/AppRouter';
+import AppRouter from './routers/Approuter';
 
 const App = () => (
     <div>
