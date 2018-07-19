@@ -3,10 +3,11 @@
 My newer react starter with webpack4
 
 ### Commands
-npm run dev-server - local dev server.
 
-npm build:dev - dev build.
+`npm run dev-server` - local dev server.
 
-npm build:prod - production build
+`npm build:dev` - dev build.
 
-npm start - node server with express
+`npm build:prod` - production build
+
+`npm start` - node server with express
